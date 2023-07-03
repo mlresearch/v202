@@ -1,0 +1,97 @@
+---
+booktitle: Proceedings of the 40th International Conference on Machine Learning
+shortname: ICML
+volume: '202'
+year: '2023'
+start: 2023-07-23
+end: 2023-07-29
+published: 2023-07-03
+conference_number: '40'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ICML-2023
+month: 0
+cycles: false
+bibtex_editor: Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt,
+  Barbara and Sabato, Sivan and Scarlett, Jonathan
+editor:
+- given: Andreas
+  family: Krause
+- given: Emma
+  family: Brunskill
+- given: Kyunghyun
+  family: Cho
+- given: Barbara
+  family: Engelhardt
+- given: Sivan
+  family: Sabato
+- given: Jonathan
+  family: Scarlett
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 40th International Conference on Machine Learning
+    Held in Honolulu, Hawaii, USA on 23-29 July 2023
+
+  Published as Volume 202 by the Proceedings of Machine Learning Research on 03 July 2023.
+
+  Volume Edited by:
+    Andreas Krause
+    Emma Brunskill
+    Kyunghyun Cho
+    Barbara Engelhardt
+    Sivan Sabato
+    Jonathan Scarlett
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 23--29 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v202"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v202
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v202
+email: ''
+conference:
+  name: International Conference on Machine Learning
+  url: https://icml.cc/Conferences/2023
+  location: Honolulu, Hawaii, USA
+  dates:
+  - 2023-07-23
+  - 2023-07-24
+  - 2023-07-25
+  - 2023-07-26
+  - 2023-07-27
+  - 2023-07-28
+  - 2023-07-29
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v202/icml23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v202/icml23.bib
