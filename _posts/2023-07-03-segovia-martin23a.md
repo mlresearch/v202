@@ -27,10 +27,10 @@ lastpage: 30457
 page: 30439-30457
 order: 30439
 cycles: false
-bibtex_author: Segovia Martin, Jose Ignacio and Mazuelas, Santiago and Liu, Anqi
+bibtex_author: Segovia-Martín, José I. and Mazuelas, Santiago and Liu, Anqi
 author:
-- given: Jose Ignacio
-  family: Segovia Martin
+- given: José I.
+  family: Segovia-Martín
 - given: Santiago
   family: Mazuelas
 - given: Anqi
