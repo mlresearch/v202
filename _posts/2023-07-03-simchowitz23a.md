@@ -1,5 +1,5 @@
 ---
-title: Statistical Learning under Heterogenous Distribution Shift
+title: Statistical Learning under Heterogeneous Distribution Shift
 openreview: MEnEJqyE4s
 abstract: This paper studies the prediction of a target $\mathbf{z}$ from a pair of
   random variables $(\mathbf{x},\mathbf{y})$, where the ground-truth predictor is
@@ -9,7 +9,7 @@ abstract: This paper studies the prediction of a target $\mathbf{z}$ from a pair
   a given training distribution, but evaluated on a test distribution which exhibits
   covariate shift. We show that, when the class $\mathcal{F}$ is "simpler" than $\mathcal{G}$
   (measured, e.g., in terms of its metric entropy), our predictor is more resilient
-  to <em>heterogenous covariate shifts</em> in which the shift in $\mathbf{x}$ is
+  to <em>heterogeneous covariate shifts</em> in which the shift in $\mathbf{x}$ is
   much greater than that in $\mathbf{y}$. These results rely on a novel Hölder style
   inequality for the Dudley integral which may be of independent interest. Moreover,
   we corroborate our theoretical findings with experiments demonstrating improved
@@ -20,7 +20,7 @@ publisher: PMLR
 issn: 2640-3498
 id: simchowitz23a
 month: 0
-tex_title: Statistical Learning under Heterogenous Distribution Shift
+tex_title: Statistical Learning under Heterogeneous Distribution Shift
 firstpage: 31800
 lastpage: 31851
 page: 31800-31851
