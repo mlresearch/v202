@@ -23,10 +23,10 @@ lastpage: 35197
 page: 35175-35197
 order: 35175
 cycles: false
-bibtex_author: Von Rohrscheidt, Julius and Rieck, Bastian
+bibtex_author: von Rohrscheidt, Julius and Rieck, Bastian
 author:
 - given: Julius
-  family: Von Rohrscheidt
+  family: von Rohrscheidt
 - given: Bastian
   family: Rieck
 date: 2023-07-03
